@@ -1,0 +1,13 @@
+.walletDisconnectButton {
+  font-weight: 500;
+  position: "fixed";
+  right: 24;
+  top: 24;
+}
+
+.walletConnectButton {
+  font-weight: 500;
+  position: "fixed";
+  right: 24;
+  top: 24;
+}
