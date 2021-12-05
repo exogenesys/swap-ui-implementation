@@ -43,7 +43,7 @@ export function WalletButton() {
         variant="contained"
         onClick={() => handleDisconnectButton()}
       >
-        {`${shortenAddress(isConnected.toString())} | Disconnect`}
+        {`${shortenAddress(isConnected.toString())} ––– Disconnect`}
       </Button>
     );
   } else {
